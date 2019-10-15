@@ -1,0 +1,11 @@
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.0\DecisionMaking.exe
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.0\DecisionMaking.deps.json
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.0\DecisionMaking.runtimeconfig.json
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.0\DecisionMaking.runtimeconfig.dev.json
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.0\DecisionMaking.dll
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\bin\Debug\netcoreapp3.0\DecisionMaking.pdb
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.0\DecisionMaking.csprojAssemblyReference.cache
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.0\DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.0\DecisionMaking.AssemblyInfo.cs
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.0\DecisionMaking.dll
+C:\Users\Tristan\Documents\BootCamp\DecisionMaking\DecisionMaking\obj\Debug\netcoreapp3.0\DecisionMaking.pdb
